@@ -7,7 +7,9 @@ This is a simple example, the same issue occurs with many graphQL libraries (in 
 ## Pics
 
 The coloured box lerps from red to green, from 0 - 100. This is defined in a child viewmodel. 
-![Test Image 1](“img1.png”)
 
-When adding items programmatically to a **reversed** list, the state of the child viewmodels remain and the top 5 colours do not change regardless of the number in the listitem
-![Test Image 1](“img2.png”)
+![Test Image 1](./img1.png =400x)
+
+When adding items programmatically to a **reversed** list, the state of the child viewmodels remain and the top 5 colours do not change regardless of the number in the listitem.
+
+![Test Image 1](./img2.png =400x)
